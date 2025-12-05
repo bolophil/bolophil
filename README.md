@@ -8,5 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 🌍  I'm located in Knoxville, TN.
+
 🧠  I'm interested in Software Development, System/Database Admin, DevOps Engineer.
+
 ✉️  Reach me at alex.c.nguyen93@gmail.com
